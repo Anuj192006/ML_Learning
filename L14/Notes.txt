@@ -1,0 +1,13 @@
+Buisness Problem to ML problem
+
+1) Convert to mathematical form like an equation
+2) Type of problem and data
+3) Current solution
+4) Getting data
+5) metrics to measure performance
+6) online data training or batch training
+7) ML Model
+8) check Assumptions
+9) Evaluation Metric
+
+Not necessary to follow this steps but this is how we have to brainstorm
