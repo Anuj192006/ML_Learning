@@ -33,5 +33,3 @@ This repo is a **complete, structured, lecture-wise collection of notes** based 
 ✔ Beginner → Intermediate ML progression  
 
 ---
-
-## 📂 Repository Structure
