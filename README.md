@@ -1,83 +1,37 @@
-# ML Learning Environment Setup
+🤖 100 DAYS OF MACHINE LEARNING — CAMPUS X 🚀  
+===========================================
 
-## ✅ Environment Successfully Configured!
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🔥%20Grinding%20Daily-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Source-CampusX-success?style=for-the-badge">
+</p>
 
-Your Python environment for machine learning has been set up with all necessary dependencies.
+> **“Machine Learning is not magic, it’s math + logic + practice.”**  
+> This repository documents my **lecture-wise learning journey** from  
+> 🎯 **CampusX – 100 Days of Machine Learning Playlist**
 
-## 📦 What's Installed
+---
 
-- **Python**: 3.13.6
-- **Jupyter**: Full Jupyter suite (notebook, lab, console)
-- **ML Libraries**: 
-  - NumPy 2.4.0
-  - Pandas 2.3.3
-  - Matplotlib 3.10.8
-  - Scikit-learn 1.8.0
-  - SciPy 1.16.3
+## 📌 About This Repository
+This repo is a **complete, structured, lecture-wise collection of notes** based on my learning from the **CampusX ML 100 Days playlist**.
 
-## 🚀 How to Use
+💡 The goal is simple:
+- Build **strong ML fundamentals**
+- Understand concepts **from scratch**
+- Maintain **clean & readable notes**
+- Create a **public learning log** for revision & interviews
 
-### In VS Code (Recommended)
+---
 
-1. Open your notebook file (e.g., `L13.ipynb`)
-2. Click on the kernel selector in the top-right corner
-3. Select **"Python (ML Environment)"** from the dropdown
-4. Start coding! 🎉
+## 🧠 What You’ll Find Inside
+✔ Lecture-wise ML notes  
+✔ Core ML concepts explained simply  
+✔ Mathematical intuition behind algorithms  
+✔ Practical insights & examples  
+✔ Interview-focused explanations  
+✔ Beginner → Intermediate ML progression  
 
-### From Terminal
+---
 
-To activate the virtual environment:
-```bash
-source ml_env/bin/activate
-```
-
-To start Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-To start JupyterLab:
-```bash
-jupyter lab
-```
-
-To deactivate the environment:
-```bash
-deactivate
-```
-
-## 🔧 Troubleshooting
-
-### If the kernel doesn't appear in VS Code:
-1. Reload VS Code window (Cmd+Shift+P → "Developer: Reload Window")
-2. Make sure the Jupyter extension is installed
-3. Try selecting the kernel again
-
-### To install additional packages:
-```bash
-source ml_env/bin/activate
-pip install package-name
-```
-
-### To recreate this environment on another machine:
-```bash
-python3 -m venv ml_env
-source ml_env/bin/activate
-pip install -r requirements.txt
-python -m ipykernel install --user --name=ml_env --display-name="Python (ML Environment)"
-```
-
-## 📝 Files in This Directory
-
-- `ml_env/` - Virtual environment (not tracked in git)
-- `requirements.txt` - List of installed packages
-- `.gitignore` - Git ignore rules
-- `L13.ipynb` - Your notebook file
-
-## 💡 Tips
-
-- Always activate the virtual environment before installing new packages
-- Use `pip freeze > requirements.txt` to update the requirements file after installing new packages
-- The virtual environment is isolated from your system Python, preventing conflicts
-
-Happy Learning! 🎓
+## 📂 Repository Structure
